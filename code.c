@@ -1,4 +1,6 @@
 #include<stdio.h>
 void main(){
-    printf("Hello GIT!");
+
+    printf("goodbye  GIT!");
+
 }
